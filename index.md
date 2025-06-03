@@ -15,3 +15,6 @@ Explore the theory, diagrams, and musings from Mürkwood and Workmüd.
 - [See the Diagram](graphviz/prime_diagram.svg)
 - [Meet the Authors](about.md)
 - [Visit the Blog](blog.md)
+
+<!-- trigger rebuild -->
+
