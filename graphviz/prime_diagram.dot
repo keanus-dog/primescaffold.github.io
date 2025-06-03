@@ -1,0 +1,27 @@
+digraph MemoryNetwork {
+    rankdir=LR;
+    node [shape=circle style=filled fillcolor=lightgray];
+
+    A -> N;
+    N -> O;
+    O -> Q;
+    Q -> X;
+    X -> Z;
+
+    A -> Q [style=dashed];
+    N -> Z [style=dashed];
+
+    subgraph cluster_Prime {
+        label="Prime Cluster";
+        style=dotted;
+        color=gray;
+        A;
+        Z;
+        N;
+        O;
+        Q;
+        X;
+    }
+
+    A -> Z [penwidth=3 color=blue];
+}
