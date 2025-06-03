@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prime Scaffold Hypothesis
+<link rel="stylesheet" href="primescaffold_theme.css">
 ---
 
 # The Prime Scaffold Hypothesis

@@ -1,0 +1,48 @@
+
+/* Prime Scaffold: Clean + Classy Theme */
+
+body {
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+  color: #212529;
+  margin: 2em auto;
+  max-width: 800px;
+  padding: 0 1em;
+}
+
+h1, h2, h3 {
+  color: #1a2a3a;
+  font-weight: 600;
+}
+
+a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  background-color: #eef;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+pre {
+  background-color: #eee;
+  padding: 1em;
+  overflow: auto;
+  border-left: 3px solid #bbb;
+}
+
+blockquote {
+  font-style: italic;
+  color: #555;
+  border-left: 4px solid #ccc;
+  margin: 1em 0;
+  padding-left: 1em;
+}
