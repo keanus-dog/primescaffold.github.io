@@ -3,7 +3,7 @@ layout: default
 title: Prime Scaffold Hypothesis
 ---
 
-<link rel="stylesheet" href="primescaffold_theme.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.6/css/pico.min.css">
 
 # The Prime Scaffold Hypothesis
 
