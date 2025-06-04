@@ -14,7 +14,10 @@ title: Prime Scaffold Manifesto
 
 ---
 
-This is the ethos behind the Prime Scaffold Hypothesis—a framework for memory as resilience, not precision.  
+This is the ethos behind the Prime Scaffold Hypothesis—
+a framework for memory as resilience, 
+not precision.  
+
 We do not seek perfect recall. 
 We seek **functional recovery**.
 
