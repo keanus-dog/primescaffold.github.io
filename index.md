@@ -16,7 +16,7 @@ Welcome to the public site for the Prime Scaffold Hypothesis — a theory propos
 Explore the theory, diagrams, and musings from P Schroezinger & CG Workmüd
 
 - [Read the Theory](theory.md)
-- [See the Diagram](graphviz/prime_diagram.svg)
+- [See the Diagram](graphviz/prime_diagram.dot)
 - [Meet the Authors](about.md)
 - [Visit the Blog](blog.md)
 
