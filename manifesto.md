@@ -10,7 +10,7 @@ title: Prime Scaffold Manifesto
 > **Failure** as quantum scaffolding  
 > **Thought**… as recursive recovery  
 
-*A damaged circuit crackles, arcing over synaptic void.*
+*A damaged circuit crackles, arcs over synaptic void.*
 
 ---
 
