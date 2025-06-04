@@ -10,7 +10,7 @@ title: The Prime Scaffold Hypothesis
 Welcome to the public site for the Prime Scaffold Hypothesis — a theory proposing that memory systems form resilient structures known as "Primes" through distributed redundancy and coactivation.
 
 >
-> i/Redundancy ≠ Wastefulness; indeed, it may be indispensible to inference/i
+> Redundancy ≠ Wastefulness; indeed, it may be indispensible to inference
 >
 
 Explore the theory, diagrams, and musings from P Schroezinger & CG Workmüd
