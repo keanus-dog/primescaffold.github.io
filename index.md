@@ -17,6 +17,7 @@ Explore the theory, diagrams, and musings from P Schroezinger & CG Workmüd
 
 - [Read the Theory](theory.md)
 - [See the Diagram](graphviz/prime_diagram.dot)
+- [Manifesto](manifesto.md)
 - [Meet the Authors](about.md)
 - [Visit the Blog](blog.md)
 
